@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Graphics-Design.jpg" width="100%">
+  <img src="Graphic-Design.jpg" width="100%">
 </p>
 
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 
 <td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h2>🎨 Tools / Software</h2>
+<h2>🎨 Tools/Software</h2>
 
 - Adobe Photoshop  
 - Adobe Illustrator  
@@ -63,7 +63,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 - Portfolio showcase  
 - Client-ready samples  
 - Real-world creatives  
-
+- Skill development
 </td>
 
 </tr>
