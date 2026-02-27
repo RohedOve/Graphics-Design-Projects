@@ -33,7 +33,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 
 <td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h2>🎨 Workspace</h2>
+<h2>🎨 Software</h2>
 
 - Adobe Photoshop  
 - Adobe Illustrator  
