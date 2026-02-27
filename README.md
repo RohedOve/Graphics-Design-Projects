@@ -63,7 +63,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 - Portfolio showcase  
 - Skill development
 - Ready samples  
-- Real-world creatives  
+- Real-world work  
 
 </td>
 
