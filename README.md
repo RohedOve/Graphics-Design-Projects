@@ -51,7 +51,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 - Typography Focus  
 - Branding Ready  
 - Print Sizes  
-- High Quality Export  
+- High-Res Export
 
 </td>
 
