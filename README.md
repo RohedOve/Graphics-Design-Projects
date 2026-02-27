@@ -45,7 +45,7 @@ It serves as a collection for learning, creative practice, portfolio showcase an
 
 <td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h3>✨ Key Features</h3>
+<h2>✨ Key Features</h2>
 
 - Clean Layout  
 - Typography Focus  
